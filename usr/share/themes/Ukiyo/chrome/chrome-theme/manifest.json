@@ -1,0 +1,22 @@
+{
+  "name": "Ukiyo-dark",
+  "description": "The Ukiyo theme for Chrome.",
+  "manifest_version": 2,
+  "version": "1.0",
+  "theme": {
+      "colors": {
+          "frame": [12,12,14],
+          "frame_inactive": [11,11,13],
+          "frame_incognito": [12,12,14],
+          "frame_incognito_inactive": [11,11,13],
+          "toolbar": [22,22,24],
+          "tab_text": [231,231,231],
+          "tab_background_text": [185,185,198],
+          "bookmark_text": [231,231,231],
+          "ntp_background": [34,34,38],
+          "ntp_text": [231,231,231],
+          "ntp_link": [132,143,251],
+          "button_background": [0,0,0,0]
+      }
+  }
+}

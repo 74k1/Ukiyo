@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Ukiyo-Material-Black-1.0
+Comment=A Material Design theme with the Ukiyo flair
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Ukiyo-Material-Black-1.0
+MetacityTheme=Ukiyo-Material-Black-1.0
+IconTheme=Material-Black-Ukiyo
+CursorTheme=Adwaita
+CursorSize=24
+
+[Cursor Theme]
+Name=Ukiyo
+Comment=Kweh
