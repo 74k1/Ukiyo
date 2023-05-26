@@ -3,7 +3,7 @@ let
 in
   pkgs.stdenv.mkDerivation rec {
     pname = "Ukiyo";
-    version = "0.2";
+    version = "0.3";
 
     src = ./.;  # This says "the source is the current directory"
 
