@@ -1,4 +1,4 @@
-{ stdenv, fetchurl, gtk-engine-murrine }:
+{ stdenv, gtk-engine-murrine }:
 
 stdenv.mkDerivation rec {
   pname = "Ukiyo";
