@@ -8,3 +8,7 @@ An edited GTK Theme with my own Cursor. Neatly packaged for Nix usage.
 # Screenshots
 
 TODO :,)
+
+# How-To Install
+
+Just add this repo to your include in your home-manager or something ¯\_(ツ)_/¯
