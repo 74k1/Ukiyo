@@ -11,4 +11,4 @@ TODO :,)
 
 # How-To Install
 
-Just add this repo to your include in your home-manager or something ¯\_(ツ)_/¯
+Just add this repo to your include in your home-manager or something ¯\\\_(ツ)\_/¯
